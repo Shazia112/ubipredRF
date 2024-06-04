@@ -33,10 +33,12 @@ Neupy: "0.8.2"
 Please follow the below code to reproduce or get the results reported in the paper.
 
 For feature extraction, run: Feature-Extraction.py
+
 For overall assessment and evaluation, follow Overall_Assessment.ipynb
+
 The data (with all the sets) can be found in the spreadsheet: UBI_dataset.xlsx
 
-Start training and testing: run main.py
+
 
 
 # Citation.
