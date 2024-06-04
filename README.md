@@ -1,5 +1,5 @@
-**####UBI_PRED_RF--Effective Prediction of Ubiquitin Proteins with Machine Learning
-
-####### Code will be public after the paper is accepted ****
+Heliyon 2024
+Predictive Modeling for Ubiquitin Proteins through Advanced Machine Learning
+Technique
 
 
