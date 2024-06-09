@@ -3,7 +3,7 @@
 
 
 # Paper
-Link will be updated once paper is online.
+https://www.sciencedirect.com/science/article/pii/S2405844024085487.
 
 # Abstract
 
@@ -15,7 +15,10 @@ Dataset-II, and Dataset-III, respectively. Using Jackknife test, the method achi
 
 ### Framework
 
-Framework will be released here.
+<p align="center">
+  <img src="C:\Users\Shazia Khan\Downloads\Ubi paper framework.jpg" width="350" title="hover text">
+  <img src="C:\Users\Shazia Khan\Downloads\Ubi paper framework.jpg" width="350" alt="accessibility text">
+</p>
 
 # Code
 
@@ -45,7 +48,7 @@ The data (with all the sets) can be found in the spreadsheet: UBI_dataset.xlsx
 If you use this work in your problem, please cite the following paper:
 
 
-Link to Paper in Heliyon (Will be updated once the paper get online.)
+Link to Paper in Heliyon (https://www.sciencedirect.com/science/article/pii/S2405844024085487)
 
 
 
