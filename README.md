@@ -15,10 +15,7 @@ Dataset-II, and Dataset-III, respectively. Using Jackknife test, the method achi
 
 ### Framework
 
-<p align="center">
-  <img src="C:\Users\Shazia Khan\Downloads\Ubi paper framework.jpg" width="350" title="hover text">
-  <img src="C:\Users\Shazia Khan\Downloads\Ubi paper framework.jpg" width="350" alt="accessibility text">
-</p>
+Framework to be added.
 
 # Code
 
